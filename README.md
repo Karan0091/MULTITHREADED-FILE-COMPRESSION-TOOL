@@ -21,6 +21,8 @@ The program allows multiple threads to compress these chunks simultaneously,
 Reducing the overall time required for compression compared to a single-threaded approach.
 
 Resourses : vs code or youtoob
+#output:
+https://github.com/Karan0091/MULTITHREADED-FILE-COMPRESSION-TOOL/issues/new
 
 
 
