@@ -1,0 +1,3 @@
+usage: 
+  Compress:   f:\task2"code2 -c <input_file> <output_file>
+  Decompress: f:\task2"code2 -d <input_file> <output_file>
